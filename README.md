@@ -1,5 +1,6 @@
-### Hi there 👋
+### HOLA!! Pasa y agarra unas galletas para el camino  🍪🍪🍪🍪🍪
 
+  Sobre mi:
 - 🌐 Buenos Aires - Argentina
 - 😊 Soy una persona introvertida
 - 🥇 Me concidero una persona con ganas de emprender 
