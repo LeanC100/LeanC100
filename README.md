@@ -1,7 +1,6 @@
 ### HOLA!! Pasa y agarra unas galletas para el camino  🍪🍪🍪🍪🍪
 
   Datos de Leandro:
-- 😊 Soy una persona introvertida
 - 🌐 Naci en Buenos Aires - Argentina
 - 👯 Soy de las personas que apoyan la idea de crear un mundo mejor
 - 🎮 Me gustan los juegos de puzzle, de estrategia y los juegos de contruccion de tipo mundo abierto
