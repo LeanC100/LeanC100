@@ -1,6 +1,12 @@
-### HOLA!! Pasa y agarra unas galletas para el camino  🍪🍪🍪🍪🍪
+### HOLA!! Soy Leandro Coca  🍪🍪🍪🍪🍪
 
-  Datos de Leandro:
+ 
+ <img align="center" width="22px" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+
+ <img align="center" width="22px" src="https://media.giphy.com/media/Rznz8HjrKQAOQ/giphy.gif">
+
+ <img align="center" width="22px" src="https://media.giphy.com/media/1HKaikaFqDt7i/giphy.gif">
+ 
 - 🌐 Naci en Buenos Aires - Argentina
 - 👯 Soy de las personas que apoyan la idea de crear un mundo mejor
 - 🎮 Me gustan los juegos de puzzle, de estrategia y los juegos de contruccion de tipo mundo abierto
