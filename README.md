@@ -1,13 +1,12 @@
 # HOLA!! Soy Leandro Coca  🍪🍪🍪🍪🍪
- <hr>
 
- <div style="margin: center;">
+ <div >
  
- <img  width="250px" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+ <img  width="300px" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
  <img  width="250px" src="https://media.giphy.com/media/Rznz8HjrKQAOQ/giphy.gif">
 
- <img  width="250px" src="https://media.giphy.com/media/1HKaikaFqDt7i/giphy.gif">
+ <img  width="300px" src="https://media.giphy.com/media/1HKaikaFqDt7i/giphy.gif">
  
  </div>
  
