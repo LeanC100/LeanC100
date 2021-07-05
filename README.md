@@ -1,6 +1,5 @@
 # HOLA!! Soy Leandro Coca  👋👋👋
 
-<hr style="color=">
  <div >
  
  <img  width="270px" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
