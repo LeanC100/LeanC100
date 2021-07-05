@@ -1,11 +1,15 @@
 ### HOLA!! Soy Leandro Coca  🍪🍪🍪🍪🍪
 
  
+ <div>
+ 
  <img  width="300px" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
  <img  width="300px" src="https://media.giphy.com/media/Rznz8HjrKQAOQ/giphy.gif">
 
  <img width="300px" src="https://media.giphy.com/media/1HKaikaFqDt7i/giphy.gif">
+ 
+ </div>
  
 - 🌐 Naci en Buenos Aires - Argentina
 - 👯 Soy de las personas que apoyan la idea de crear un mundo mejor
