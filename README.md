@@ -1,7 +1,7 @@
 # HOLA!! Soy Leandro Coca  🍪🍪🍪🍪🍪
  <hr>
 
- <div style="margin: center">
+ <div style="margin: center;">
  
  <img  width="250px" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
